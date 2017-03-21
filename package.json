@@ -1,5 +1,5 @@
 {
-  "name": "azure-function-vacation-day",
+  "name": "azure-function-calendar-stats",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,6 +19,7 @@
   "dependencies": {
     "node-fetch": "^1.6.3",
     "typescript": "^2.2.1",
-    "@microsoft/microsoft-graph-client": "^0.3.2"
+    "@microsoft/microsoft-graph-client": "^0.3.2",
+    "@microsoft/microsoft-graph-types": "^0.4.1"
   }
 }
