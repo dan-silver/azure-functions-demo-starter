@@ -1,3 +1,5 @@
+declare let process:any;
+
 export const OpenWeatherMapAppId = process.env["OpenWeatherMapAppId"]
 
 export const MicrosoftAppSecret = process.env["MicrosoftAppSecret"]
